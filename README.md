@@ -39,10 +39,10 @@ The result will be displayed on the screen.
 
 ## Screenshots
 
-##Operations:
+# Operations:
 
 ![Screenshot](screenshots/pemdas.png)
 
-##Decimal Numbers:
+# Decimal Numbers:
 
 ![Screenshot](screenshots/decimal.png)
