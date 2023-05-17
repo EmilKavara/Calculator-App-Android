@@ -39,6 +39,6 @@ The result will be displayed on the screen.
 
 ## Screenshots
 
-Operations: [Screenshot](screenshots/pemdas.png)
+[Screenshot](screenshots/pemdas.png)
 
 Decimal Numbers: [Screenshot](screenshots/decimal.png)
